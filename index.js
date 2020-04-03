@@ -1,3 +1,5 @@
+var moment = require('moment');
+
 console.log('i am in the js part');
 
 

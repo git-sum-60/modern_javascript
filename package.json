@@ -18,5 +18,9 @@
   "homepage": "https://github.com/git-sum-60/modern_javascript#readme",
   "dependencies": {
     "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }

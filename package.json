@@ -18,7 +18,7 @@
   "homepage": "https://github.com/git-sum-60/modern_javascript#readme",
   "dependencies": {
     "mathjs": "^6.6.2",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "webpack": "^4.42.1",
